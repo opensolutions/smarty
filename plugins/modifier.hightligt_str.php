@@ -10,7 +10,7 @@
  * Smarty highlight modifier plugin
  *
  * Type:     modifier
- * Name:     highlightStr
+ * Name:     highlight_str
  * Purpose:  Highlighting case insensitive search results on the page. Supports cyrillic characters
  * How to use: You need to declare css-style for class .hightligt
  * 
