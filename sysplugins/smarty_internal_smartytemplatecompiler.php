@@ -11,7 +11,7 @@
 /**
  * @ignore
  */
-include 'smarty_internal_parsetree.php';
+require_once('smarty_internal_parsetree.php');
 
 /**
  * Class SmartyTemplateCompiler
